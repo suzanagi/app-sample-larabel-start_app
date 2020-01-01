@@ -8,8 +8,8 @@
 </p>
 
 ## Laravel simple command summary
-Create app: "composer create-project laravel/laravel start_app"
-Run sercer: "php artisan serve"
+- Create app: "composer create-project laravel/laravel start_app"
+- Run server: "php artisan serve"
 
 ## About Laravel
 
